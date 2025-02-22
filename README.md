@@ -1,4 +1,4 @@
-# 💫 Oii, seja bem-vindo(a) ao meu github!:
+# 💫 Bem-vindo(a) ao GitHub da Mari! Saiba mais sobre mim:
 🛜 trabalhando recorrentemente na criação da minha própria página da web e em projetos full-stack<br>👩‍🎓estudando análise e desenvolvimento de sistemas no Centro Universitário Leonardo da Vinci <br>🕹️cursando tecnologia da informação na UNIVESP<br>💻otimizando insights e gerando inovações visionárias no mundo da tecnologia<br> 
 
 
